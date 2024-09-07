@@ -1,1 +1,3 @@
-Teste utilizando Git e GitHub
+# Projeto para treino utilizando Git e GitHub
+
+> Testes utilizando Git e GitHub
